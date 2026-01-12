@@ -3,5 +3,9 @@
   "devCommand": "npm run dev",
   "installCommand": "npm install",
   "framework": "astro",
-  "outputDirectory": "dist"
+  "outputDirectory": "dist",
+  "github": {
+    "silent": true,
+    "autoPreviewDeployments": false
+  }
 }
